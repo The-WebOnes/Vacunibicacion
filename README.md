@@ -1,6 +1,6 @@
 # Vacunibicacion
-## IHC
-### Repo for the Web Apps Optimization class by the PhD Víctor Hugo Menéndez Domínguez
+## HCI
+### Repo for the Human Computer Interaction class by the PhD Víctor Hugo Menéndez Domínguez
 
 ### 👥 Team Members:
 
@@ -8,5 +8,5 @@
 | ----- | ---- | ----- | ----- |
 | <a href="https://github.com/artrune"> Jorge Arturo Aguilar Solís </a>| <a href="https://github.com/VictorLavalle"> Víctor Manuel Lavalle Cantón</a> | <a href="https://github.com/EberthMezeta"> Eberth Francisco Mezeta Xool </a> | <a href="https://github.com/MarioMay"> Mario Ángel May Rodríguez </a> |
 
-### 🌐 Comingsoon:
+### 🌐 Coming Soon:
 <a href="https://the-webones.github.io/Vacunibicacion/">Vacunibicación </a>
